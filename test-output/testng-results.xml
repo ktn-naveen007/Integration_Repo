@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4912" started-at="2018-08-16T05:37:54Z" finished-at="2018-08-16T05:37:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4912" started-at="2018-08-16T05:37:54Z" finished-at="2018-08-16T05:37:59Z">
+      <class name="com.automation.script.Invoke">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:com.automation.script.Invoke@44c8afef]" name="invokeBrowser" duration-ms="4890" started-at="2018-08-16T05:37:54Z" finished-at="2018-08-16T05:37:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+      </class> <!-- com.automation.script.Invoke -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
